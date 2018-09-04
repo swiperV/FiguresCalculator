@@ -1,0 +1,9 @@
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\bin\Debug\netcoreapp2.1\FiguresCalculator.deps.json
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\bin\Debug\netcoreapp2.1\FiguresCalculator.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\bin\Debug\netcoreapp2.1\FiguresCalculator.pdb
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.AssemblyInfoInputs.cache
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.AssemblyInfo.cs
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.pdb
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\FiguresCalculator\obj\Debug\netcoreapp2.1\FiguresCalculator.csprojAssemblyReference.cache

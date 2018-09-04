@@ -1,0 +1,17 @@
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\FiguresCalculator.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\bin\Debug\netcoreapp2.1\FiguresCalculator.pdb
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Belousov.Dmitriy4\Desktop\FiguresCalculator\CalculatorTests\obj\Debug\netcoreapp2.1\Tests.pdb
